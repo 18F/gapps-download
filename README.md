@@ -20,7 +20,7 @@ Now, you're ready for action.
 
 # Usage
 
-Once you identify your document's ID (hint, it's in the URL), downloading is as as:
+Once you identify your document's ID (hint, it's in the URL), downloading is as simple as:
 
 `node index DOC_ID DOC_TYPE`
 
